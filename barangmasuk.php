@@ -155,7 +155,7 @@ include './components/head.php';
                                                     </div>
                                                     
                                                     <!-- Modal body -->
-                                                    <form method="POST" action="./function/function.php">
+                                                    <form method="POST">
                                                         <div class="modal-body">
                                                             <input type="text" name="namabarang" value="<?=$namabarang?>" class="form-control" required>
                                                             <br>
